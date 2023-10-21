@@ -1,6 +1,6 @@
 # NITKR-VCU
 
-VCU Code for NITKRacing FSAE Car which participated in Formula Bharat 2023
+Central Vehicle Control Unit (VCU) code for NITKRacing FSAE EV car which participated in Formula Bharat 2023
 
 Code Function:
   - CAN Communication and Parsing
