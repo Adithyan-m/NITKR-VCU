@@ -1,7 +1,6 @@
 # NITKR-VCU
-**VCU Code for NITKRacing FSAE Car**
 
-Participated in Formula Bharat 2023
+VCU Code for NITKRacing FSAE Car which participated in Formula Bharat 2023
 
 Code Function:
   - CAN Communication and Parsing
